@@ -1,0 +1,14 @@
+{
+  "name": "dockernodeclient",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Rufy",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "socket.io": "^2.2.0"
+  }
+}
